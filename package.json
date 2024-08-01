@@ -10,8 +10,7 @@
   ],
   "dependencies": {
     "com.unity.nuget.newtonsoft-json": "3.0.2",
-    "com.unity.cloud.gltfast": "5.2.0",
-	"com.unity.cinemachine": "2.6.17"
+    "com.unity.cloud.gltfast": "5.2.0"
   },
   "documentationUrl": "https://docs.avaturn.me/docs/integration/unity/unity_tutorial/",
   "author": {
